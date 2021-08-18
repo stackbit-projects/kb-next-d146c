@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: CR
 weight: 0
 excerpt: lorem-ipsum
 seo:
